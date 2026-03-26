@@ -5,7 +5,7 @@
 :- op(800, xfx, <=).
 :- dynamic(fact/1).
 
-if tosse and febre and dificuldade_respirar and fadiga and dores_musculares and dor_cabeca and perda_paladar and perda_olfato and dor_garganta and congestao_nasal and nauseas and vomitos and diarreia and dor_peito then covid_19:0.9.
+if tosse and febre and dificuldade_respirar and fadiga and dores_musculares and dor_cabeca and dor_garganta and congestao_nasal and nauseas and vomitos and diarreia and dor_peito then covid_19:0.9.
 if febre and dores_musculares and dor_cabeca and nauseas and vomitos and diarreia and perda_apetite and colicas then gastroenterite:0.9.
 if dor_urinar and urina_turva and sangue_urina and vontade_urinar then infecao_urinaria:0.9.
 if dor_cabeca and nauseas and vomitos and sensibilidade_luz and sensibilidade_som and aura_visual then enxaqueca:0.9.
